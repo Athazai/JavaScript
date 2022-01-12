@@ -24,7 +24,7 @@ if (nilai >= 90) {
             if (nilai >= 60) {
                 console.log("Selamat anda mendapatkan Nilai D")
             } else {
-                console.log("GAGAL")
+                console.log("ANTUM GAGAL")
             }
         }
     }
